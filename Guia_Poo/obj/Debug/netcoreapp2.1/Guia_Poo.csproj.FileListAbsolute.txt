@@ -1,0 +1,11 @@
+C:\Users\lyss_\Documents\Guia_Poo\bin\Debug\netcoreapp2.1\Guia_Poo.deps.json
+C:\Users\lyss_\Documents\Guia_Poo\bin\Debug\netcoreapp2.1\Guia_Poo.runtimeconfig.json
+C:\Users\lyss_\Documents\Guia_Poo\bin\Debug\netcoreapp2.1\Guia_Poo.runtimeconfig.dev.json
+C:\Users\lyss_\Documents\Guia_Poo\bin\Debug\netcoreapp2.1\Guia_Poo.dll
+C:\Users\lyss_\Documents\Guia_Poo\bin\Debug\netcoreapp2.1\Guia_Poo.pdb
+C:\Users\lyss_\Documents\Guia_Poo\obj\Debug\netcoreapp2.1\Guia_Poo.csprojAssemblyReference.cache
+C:\Users\lyss_\Documents\Guia_Poo\obj\Debug\netcoreapp2.1\Guia_Poo.csproj.CoreCompileInputs.cache
+C:\Users\lyss_\Documents\Guia_Poo\obj\Debug\netcoreapp2.1\Guia_Poo.AssemblyInfoInputs.cache
+C:\Users\lyss_\Documents\Guia_Poo\obj\Debug\netcoreapp2.1\Guia_Poo.AssemblyInfo.cs
+C:\Users\lyss_\Documents\Guia_Poo\obj\Debug\netcoreapp2.1\Guia_Poo.dll
+C:\Users\lyss_\Documents\Guia_Poo\obj\Debug\netcoreapp2.1\Guia_Poo.pdb
